@@ -1,5 +1,5 @@
 # Shoplifting_Theft_Detection
-This project focuses on building a custom shoplifting detection system from scratch, leveraging the YOLOv11 object detection framework. The goal is to identify suspicious activities and detect potential theft in retail environments in real-time.
+This project focuses on building a custom shoplifting detection system from scratch, leveraging the YOLOv8 object detection framework. The goal is to identify suspicious activities and detect potential theft in retail environments in real-time.
 # Shoplifting Detection System
 
 This project aims to develop an AI-driven *Shoplifting Detection System* for retail security, leveraging advanced technologies like *YOLO* for object detection, *LSTM* for behavior analysis, and *IBM Watson Machine Learning* for enhanced model deployment. The system processes real-time CCTV footage to identify suspicious behaviors, ensuring proactive theft prevention and reducing manual monitoring efforts.
